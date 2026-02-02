@@ -1,6 +1,7 @@
 // App.jsx
 import { useEffect, useMemo, useState } from "react";
 
+
 const CORE_COLORS = {
   Trust: "#2E7D32",
   Joy: "#F4B400",
