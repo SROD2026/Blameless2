@@ -1,5 +1,7 @@
 // App.jsx
 import { useEffect, useMemo, useState } from "react";
+fetch("/data/unified_wheels_schema.json")
+fetch("/data/emotions_wheel.csv")
 
 const CORE_COLORS = {
   Trust: "#2E7D32",
