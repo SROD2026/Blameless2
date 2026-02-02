@@ -1,0 +1,249 @@
+:root{
+  /* Tune for 21x21: smaller tiles so it fits */
+  --cell: 48px;
+  --gap: 6px;
+  --border: #d0d7de;
+  --bg: #0b0f14;
+  --card: #121821;
+  --text: #f6f7f8;
+  --muted: #9fb0c0;
+  --accent: #7aa2f7;
+
+  /* Center lane (0 axis) */
+  --lane: 50px;
+  --font: 12px;
+
+  /* 10 cells + lane + 10 cells (21 total slots incl lane) */
+  --gridSpan: calc(20 * var(--cell) + 21 * var(--gap) + var(--lane));
+}
+
+*{ box-sizing:border-box; }
+body{
+  margin:0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+.app{
+  max-width: 1700px;
+  margin: 0 auto;
+  padding: 18px;
+  display: grid;
+  gap: 14px;
+}
+.header h1{ margin:0; font-size: 24px; }
+.subtitle{ margin:6px 0 0; color: var(--muted); }
+
+.panel{
+  background: var(--card);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 14px;
+  padding: 14px;
+  display: grid;
+  gap: 12px;
+}
+.readout{
+  display:flex;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+.label{ color: var(--muted); }
+.matches ol{ margin: 8px 0 0 18px; padding:0; }
+
+/* ---------- Grid container ---------- */
+.gridWrap{
+  position: relative;
+  display: inline-block; /* shrink-wrap to the grid */
+  background: var(--card);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 14px;
+  padding: 18px;
+  max-width: 100%;
+  overflow: auto; /* allow scroll if viewport is small */
+}
+
+.grid{
+  position: relative;
+  z-index: 2;
+  display: grid;
+
+  /* 10 cells + lane + 10 cells */
+  grid-template-columns: repeat(10, var(--cell)) var(--lane) repeat(10, var(--cell));
+  grid-template-rows:    repeat(10, var(--cell)) var(--lane) repeat(10, var(--cell));
+
+  gap: var(--gap);
+  justify-content: center;
+  align-content: center;
+  padding: 14px;
+}
+
+.gapCell{
+  border-radius: 5px;
+  background: rgba(255,255,255,0.06);
+  border: none;
+}
+
+.cell{
+  border: 1px solid rgba(255,255,255,0.10);
+  border-radius: 10px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  cursor: pointer;
+  user-select: none;
+
+  /* Make labels fit */
+  padding: 4px;
+  text-align: center;
+  line-height: 1.05;
+  font-size: var(--font);
+  white-space: normal;
+  word-break: keep-all;
+  overflow-wrap: normal;
+  hyphens: none;
+
+  overflow: hidden;
+  text-overflow: clip;
+  color: rgb(0, 0, 0);
+}
+
+.fitSpan{
+  display: block;
+  width: 100%;
+}
+
+.cell:hover{ outline: 2px solid rgba(122,162,247,0.35); }
+.cell.selected{
+  outline: 3px solid var(--accent);
+  color: #fff;
+  font-weight: 700;
+  filter: brightness(1.15);
+}
+
+/* Outer axis labels (optional) */
+.axisLabel{
+  position:absolute;
+  color: var(--muted);
+  font-size: 12px;
+}
+.yTop{ top: 6px; left: 14px; }
+.yBottom{ bottom: 6px; left: 14px; }
+.xLeft{ left: 6px; top: 50%; transform: translateY(-50%) rotate(-90deg); transform-origin:left top; }
+.xRight{ right: 6px; top: 50%; transform: translateY(-50%) rotate(90deg); transform-origin:right top; }
+
+.footer{ display:flex; justify-content:flex-end; }
+.btn{
+  background: transparent;
+  color: var(--text);
+  border: 1px solid rgba(255,255,255,0.18);
+  border-radius: 10px;
+  padding: 10px 12px;
+  cursor: pointer;
+}
+.btn:hover{ border-color: rgba(122,162,247,0.7); }
+
+.cell.empty{
+  color: rgba(255,255,255,0.25);
+  font-size: 11px;
+}
+
+/* ---------- Mid-axis “pill” labels inside the lane ---------- */
+:root{
+  --axis-size: 14px;
+  --axis-pad-x: 10px;
+  --axis-pad-y: 6px;
+
+  /* Put labels *inside* the lane */
+  --lane-inset: 10px;
+
+  /* Fine-tune these for 21x21 tile field */
+  --vTop-shift: -470px;
+  --vBottom-shift: 420px;
+  --hLeft-shift: -560px;
+  --hRight-shift: 320px;
+}
+
+.axisMid{
+  position: absolute;
+  z-index: 20;
+  pointer-events: none;
+
+  font-weight: 900;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-size: 22px;
+
+  white-space: nowrap;
+  line-height: 1;
+
+  color: rgba(255, 255, 255, 0.934);
+  text-shadow: 0 2px 10px rgba(0,0,0,0.45);
+
+  background: rgba(10,14,20,0.75);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 999px;
+  padding: var(--axis-pad-y) var(--axis-pad-x);
+  backdrop-filter: blur(3px);
+}
+
+/* HIGH INTENSITY sits near the top of the horizontal lane */
+.axisMidVTop{
+  left: 50%;
+  top: calc(50% - (var(--lane) / 2) + var(--lane-inset));
+  transform: translateX(-50%) translateY(var(--vTop-shift)) rotate(-90deg);
+}
+
+/* LOW INTENSITY sits near the bottom of the horizontal lane */
+.axisMidVBottom{
+  left: 50%;
+  top: calc(50% + (var(--lane) / 2) - var(--lane-inset));
+  transform: translateX(-50%) translateY(var(--vBottom-shift)) rotate(-90deg);
+  opacity: 0.75;
+}
+
+/* NEEDS NOT MET sits inside the vertical lane, left side */
+.axisMidHLeft{
+  left: calc(50% - (var(--lane) / 2) + var(--lane-inset));
+  top: 50%;
+  transform: translateY(-50%) translateX(var(--hLeft-shift));
+  transform-origin: center;
+}
+
+/* NEEDS MET sits inside the vertical lane, right side */
+.axisMidHRight{
+  left: calc(50% + (var(--lane) / 2) - var(--lane-inset));
+  top: 50%;
+  transform: translateY(-50%) translateX(var(--hRight-shift));
+  transform-origin: center;
+}
+
+/* Zoom/pan container */
+.viewport{
+  width: 100%;
+  max-width: 100%;
+  height: 80vh;          /* adjust */
+  overflow: hidden;      /* we pan via transforms */
+  border-radius: 14px;
+  position: relative;
+  cursor: grab;
+}
+
+.viewport:active{ cursor: grabbing; }
+
+/* This layer is what we scale/translate */
+.zoomLayer{
+  transform-origin: 50% 50%;
+  will-change: transform;
+}
+
+/* Allow touch gestures on the viewport */
+.viewport{
+  touch-action: none;        /* we handle pan/zoom ourselves */
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* Prevent the page from bouncing/scrolling when you interact with the map */
+body{
+  overscroll-behavior: none;
+}

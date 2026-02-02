@@ -1,0 +1,145 @@
+Word	Mood	Intensity
+panicked	-6	6
+terrified	-5	6
+overwhelmed	-4	6
+alarmed	-3	6
+agitated	-2	6
+on edge	-1	6
+thrilled	1	6
+elated	2	6
+joyful	3	6
+radiant	4	6
+exuberant	5	6
+ecstatic	6	6
+anxious	-6	5
+fearful	-5	5
+uneasy	-4	5
+restless	-3	5
+tense	-2	5
+pressured	-1	5
+excited	1	5
+energized	2	5
+uplifted	3	5
+inspired	4	5
+enthusiastic	5	5
+alive	6	5
+worried	-6	4
+apprehensive	-5	4
+uncertain	-4	4
+guarded	-3	4
+vigilant	-2	4
+preoccupied	-1	4
+engaged	1	4
+interested	2	4
+curious	3	4
+focused	4	4
+motivated	5	4
+absorbed	6	4
+sad	-6	3
+discouraged	-5	3
+heavy	-4	3
+somber	-3	3
+low	-2	3
+flat	-1	3
+content	1	3
+satisfied	2	3
+pleased	3	3
+settled	4	3
+assured	5	3
+fulfilled	6	3
+lonely	-6	2
+isolated	-5	2
+disconnected	-4	2
+unseen	-3	2
+unsupported	-2	2
+distant	-1	2
+connected	1	2
+supported	2	2
+included	3	2
+attuned	4	2
+valued	5	2
+belonging	6	2
+ashamed	-6	1
+self-conscious	-5	1
+exposed	-4	1
+inadequate	-3	1
+small	-2	1
+unsettled	-1	1
+confident	1	1
+self-assured	2	1
+grounded	3	1
+capable	4	1
+secure in self	5	1
+whole	6	1
+strained	-6	-1
+uptight	-5	-1
+edgy	-4	-1
+irritable	-3	-1
+bothered	-2	-1
+uneasy within	-1	-1
+calm	1	-1
+peaceful	2	-1
+serene	3	-1
+tranquil	4	-1
+relaxed	5	-1
+at ease	6	-1
+tired	-6	-2
+exhausted	-5	-2
+drained	-4	-2
+overextended	-3	-2
+spent	-2	-2
+fatigued	-1	-2
+rested	1	-2
+restored	2	-2
+recovered	3	-2
+unburdened	4	-2
+refreshed	5	-2
+renewed	6	-2
+weary	-6	-3
+slowed	-5	-3
+dulled	-4	-3
+foggy	-3	-3
+listless	-2	-3
+depleted	-1	-3
+steady	1	-3
+balanced	2	-3
+centered	3	-3
+regulated	4	-3
+aligned	5	-3
+anchored	6	-3
+numb	-6	-4
+disengaged	-5	-4
+detached	-4	-4
+checked out	-3	-4
+apathetic	-2	-4
+muted	-1	-4
+open	1	-4
+receptive	2	-4
+present	3	-4
+clear	4	-4
+available	5	-4
+attentive	6	-4
+withdrawn	-6	-5
+closed off	-5	-5
+disconnected within	-4	-5
+unresponsive	-3	-5
+shut down	-2	-5
+distant inside	-1	-5
+trusting	1	-5
+safe	2	-5
+reassured	3	-5
+protected	4	-5
+held	5	-5
+supported within	6	-5
+unsteady	-6	-6
+shaky	-5	-6
+fragile	-4	-6
+vulnerable	-3	-6
+uncertain of footing	-2	-6
+ungrounded	-1	-6
+stable	1	-6
+secure	2	-6
+resilient	3	-6
+strong	4	-6
+capable within	5	-6
+grounded deeply	6	-6

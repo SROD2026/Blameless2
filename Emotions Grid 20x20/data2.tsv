@@ -1,0 +1,401 @@
+Emotion/Feeling	Need Met or not	Intensity of Feeling
+panicked	-10	10
+terrified	-9	10
+overwhelmed	-8	10
+alarmed	-7	10
+flooded	-6	10
+overstimulated	-5	10
+pressed	-4	10
+strained	-3	10
+activated	-2	10
+on edge	-1	10
+anxious	-10	9
+fearful	-9	9
+uneasy	-8	9
+restless	-7	9
+agitated	-6	9
+keyed up	-5	9
+urgent	-4	9
+pressured	-3	9
+tight	-2	9
+reactive	-1	9
+worried	-10	8
+concerned	-9	8
+apprehensive	-8	8
+uncertain	-7	8
+guarded	-6	8
+alert	-5	8
+vigilant	-4	8
+preoccupied	-3	8
+focused outward	-2	8
+monitoring	-1	8
+tense	-10	7
+rigid	-9	7
+braced	-8	7
+held tight	-7	7
+contained	-6	7
+restrained	-5	7
+compressed	-4	7
+controlled	-3	7
+self-monitoring	-2	7
+effortful	-1	7
+irritated	-10	6
+bothered	-9	6
+disturbed	-8	6
+disrupted	-7	6
+ruffled	-6	6
+uneven	-5	6
+activated inside	-4	6
+stirred	-3	6
+internally busy	-2	6
+alerted	-1	6
+frustrated	-10	5
+blocked	-9	5
+impeded	-8	5
+halted	-7	5
+stuck	-6	5
+efforting	-5	5
+strained forward	-4	5
+trying hard	-3	5
+mobilized	-2	5
+engaged under strain	-1	5
+pressured inside	-10	4
+compressed within	-9	4
+weighted	-8	4
+burdened	-7	4
+loaded	-6	4
+responsible	-5	4
+tasked	-4	4
+pulled	-3	4
+activated quietly	-2	4
+ready but tense	-1	4
+activated low-relief	-10	3
+uneasy drive	-9	3
+persistent	-8	3
+unsettled effort	-7	3
+held alert	-6	3
+working through	-5	3
+engaged under load	-4	3
+steady pressure	-3	3
+mobilized quietly	-2	3
+contained activation	-1	3
+internally noisy	-10	2
+mentally busy	-9	2
+cognitively loaded	-8	2
+processing a lot	-7	2
+active mind	-6	2
+occupied	-5	2
+mentally alert	-4	2
+engaged inwardly	-3	2
+held attention	-2	2
+focused but tight	-1	2
+activated faintly	-10	1
+uneasy hum	-9	1
+low-grade tension	-8	1
+subtle strain	-7	1
+background alert	-6	1
+quiet pressure	-5	1
+mild activation	-4	1
+ready within	-3	1
+poised but unsure	-2	1
+held readiness	-1	1
+ecstatic	10	10
+exuberant	9	10
+radiant	8	10
+elated	7	10
+thrilled	6	10
+joyful	5	10
+alive	4	10
+expanded	3	10
+fully activated	2	10
+overflowing	1	10
+euphoric	10	9
+uplifted	9	9
+inspired	8	9
+energized	7	9
+enthusiastic	6	9
+buoyant	5	9
+light	4	9
+invigorated	3	9
+amplified	2	9
+bright	1	9
+excited	10	8
+motivated	9	8
+engaged	8	8
+interested	7	8
+curious	6	8
+activated	5	8
+forward-moving	4	8
+responsive	3	8
+ready	2	8
+mobilized	1	8
+confidently engaged	10	7
+purposeful	9	7
+directed	8	7
+focused	7	7
+intentional	6	7
+organized	5	7
+steady drive	4	7
+clear-headed	3	7
+capable energy	2	7
+self-directed	1	7
+empowered	10	6
+capable	9	6
+competent	8	6
+effective	7	6
+productive	6	6
+resourced	5	6
+supported	4	6
+backed	3	6
+reinforced	2	6
+strengthened	1	6
+hopeful	10	5
+optimistic	9	5
+encouraged	8	5
+assured	7	5
+reassured	6	5
+steady confidence	5	5
+positive expectancy	4	5
+forward-looking	3	5
+trusting movement	2	5
+open confidence	1	5
+connected	10	4
+attuned	9	4
+aligned	8	4
+in sync	7	4
+linked	6	4
+included	5	4
+relationally present	4	4
+engaged with others	3	4
+openly responsive	2	4
+available outwardly	1	4
+warm	10	3
+affectionate	9	3
+open-hearted	8	3
+receptive	7	3
+approachable	6	3
+welcoming	5	3
+softly energized	4	3
+gently engaged	3	3
+present with ease	2	3
+open presence	1	3
+brightly attentive	10	2
+aware	9	2
+mentally clear	8	2
+alert with ease	7	2
+attentive	6	2
+responsive awareness	5	2
+engaged mind	4	2
+clear focus	3	2
+quiet readiness	2	2
+poised	1	2
+activated calmly	10	1
+energized ease	9	1
+ready and grounded	8	1
+steady activation	7	1
+contained energy	6	1
+light readiness	5	1
+subtle vitality	4	1
+gentle momentum	3	1
+soft activation	2	1
+held aliveness	1	1
+deeply settled	10	-10
+fully at rest	9	-10
+profoundly calm	8	-10
+still	7	-10
+quieted	6	-10
+unhurried	5	-10
+spacious	4	-10
+soft	3	-10
+held quietly	2	-10
+at peace	1	-10
+serene	10	-9
+tranquil	9	-9
+peaceful	8	-9
+resting	7	-9
+soothed	6	-9
+settled inside	5	-9
+easeful	4	-9
+gentle	3	-9
+comforted	2	-9
+safe at rest	1	-9
+restored	10	-8
+renewed	9	-8
+refreshed	8	-8
+recovered	7	-8
+unburdened	6	-8
+lightened	5	-8
+replenished	4	-8
+relieved	3	-8
+steady relief	2	-8
+ease returning	1	-8
+grounded	10	-7
+anchored	9	-7
+centered	8	-7
+balanced	7	-7
+aligned	6	-7
+rooted	5	-7
+stable inside	4	-7
+contained	3	-7
+supported within	2	-7
+steady base	1	-7
+secure	10	-6
+protected	9	-6
+held	8	-6
+sheltered	7	-6
+reassured	6	-6
+trusting	5	-6
+safe enough	4	-6
+unthreatened	3	-6
+resting trust	2	-6
+quiet safety	1	-6
+content	10	-5
+satisfied	9	-5
+fulfilled	8	-5
+okay	7	-5
+fine	6	-5
+complete	5	-5
+enough	4	-5
+settled satisfaction	3	-5
+no urgency	2	-5
+at ease	1	-5
+connected	10	-4
+attuned	9	-4
+close	8	-4
+bonded	7	-4
+linked	6	-4
+included	5	-4
+with others	4	-4
+relationally present	3	-4
+gently together	2	-4
+held in connection	1	-4
+open	10	-3
+receptive	9	-3
+available	8	-3
+present	7	-3
+listening	6	-3
+welcoming	5	-3
+softly open	4	-3
+unresistant	3	-3
+allowing	2	-3
+open within	1	-3
+clear	10	-2
+lucid	9	-2
+mentally settled	8	-2
+uncluttered	7	-2
+focused ease	6	-2
+steady attention	5	-2
+aware	4	-2
+oriented	3	-2
+quiet clarity	2	-2
+easeful focus	1	-2
+gently alive	10	-1
+subtly energized	9	-1
+warm presence	8	-1
+soft vitality	7	-1
+steady aliveness	6	-1
+contained life	5	-1
+quiet strength	4	-1
+easeful readiness	3	-1
+calm engagement	2	-1
+peaceful presence	1	-1
+numb	-10	-10
+emptied	-9	-10
+hollow	-8	-10
+vacant	-7	-10
+shut down	-6	-10
+powered down	-5	-10
+flatlined	-4	-10
+absent	-3	-10
+disengaged deeply	-2	-10
+gone inward	-1	-10
+withdrawn	-10	-9
+closed	-9	-9
+folded inward	-8	-9
+pulled back	-7	-9
+retreated	-6	-9
+unresponsive	-5	-9
+distant	-4	-9
+far away	-3	-9
+barely present	-2	-9
+thinly here	-1	-9
+exhausted	-10	-8
+spent	-9	-8
+drained	-8	-8
+overextended	-7	-8
+worn down	-6	-8
+used up	-5	-8
+depleted	-4	-8
+running low	-3	-8
+low reserve	-2	-8
+nearly empty	-1	-8
+weary	-10	-7
+tired	-9	-7
+heavy	-8	-7
+slowed	-7	-7
+dragging	-6	-7
+fatigued	-5	-7
+low energy	-4	-7
+dimmed	-3	-7
+softly spent	-2	-7
+quietly tired	-1	-7
+sad	-10	-6
+down	-9	-6
+low	-8	-6
+discouraged	-7	-6
+disheartened	-6	-6
+somber	-5	-6
+muted sorrow	-4	-6
+heavy-hearted	-3	-6
+dull ache	-2	-6
+quiet sadness	-1	-6
+lonely	-10	-5
+isolated	-9	-5
+separate	-8	-5
+unaccompanied	-7	-5
+cut off	-6	-5
+apart	-5	-5
+disconnected	-4	-5
+alone inside	-3	-5
+without closeness	-2	-5
+quietly alone	-1	-5
+unsettled	-10	-4
+uneasy	-9	-4
+off balance	-8	-4
+misaligned	-7	-4
+unsteady	-6	-4
+out of sync	-5	-4
+unanchored	-4	-4
+adrift	-3	-4
+not grounded	-2	-4
+loosely held	-1	-4
+foggy	-10	-3
+unclear	-9	-3
+mentally dull	-8	-3
+clouded	-7	-3
+confused	-6	-3
+unfocused	-5	-3
+scattered	-4	-3
+disoriented	-3	-3
+hard to think	-2	-3
+vague	-1	-3
+apathetic	-10	-2
+unmotivated	-9	-2
+flat interest	-8	-2
+indifferent	-7	-2
+detached	-6	-2
+checked out	-5	-2
+uninvested	-4	-2
+low engagement	-3	-2
+barely moved	-2	-2
+passive	-1	-2
+faintly uneasy	-10	-1
+subtle discomfort	-9	-1
+low-grade unease	-8	-1
+background heaviness	-7	-1
+quiet strain	-6	-1
+thin discomfort	-5	-1
+soft dissatisfaction	-4	-1
+unmet hum	-3	-1
+dull unrest	-2	-1
+barely okay	-1	-1

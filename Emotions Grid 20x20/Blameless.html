@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Emotion Map</title>
+  <link rel="stylesheet" href="./styles2.css" />
+  <link rel="manifest" href="./manifest.webmanifest">
+  <meta name="theme-color" content="#0b0f14">
+
+</head>
+
+<body>
+  <main class="app">
+    <header class="header">
+      <h1>Emotion Map</h1>
+      <p class="subtitle">
+        This tool is for a word to describe your feelings when you are or aren't getting your needs met.
+      </p>
+    </header>
+
+    <section class="panel">
+      <div class="readout">
+        <div><span class="label">Needs Met (L=no, R=yes) (X):</span> <span id="moodValue">—</span></div>
+        <div><span class="label">Intensity (Low or high intensity) (Y):</span> <span id="intensityValue">—</span></div>
+      </div>
+      <div class="matches">
+        <div class="label">Closest emotions:</div>
+        <ol id="matchesList"></ol>
+      </div>
+    </section>
+
+    <section class="gridWrap">
+  
+  <div id="viewport" class="viewport" aria-label="Emotion grid viewport">
+    <div id="zoomLayer" class="zoomLayer">
+      <div class="axisMid axisMidVTop">HIGH INTENSITY</div>
+      <div class="axisMid axisMidVBottom">LOW INTENSITY</div>
+      <div class="axisMid axisMidHLeft">NEEDS NOT MET</div>
+      <div class="axisMid axisMidHRight">NEEDS MET</div>
+
+      <div id="grid" class="grid"></div>
+    </div>
+  </div>
+</section>
+
+    <footer class="footer">
+      <button id="clearBtn" class="btn">Clear selection</button>
+    </footer>
+  </main>
+ 
+  <script src="./app2.js"></script>
+  <script src="./register-sw.js"></script>
+  <script>
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+      navigator.serviceWorker.register("./service-worker.js").catch(console.error);
+    });
+  }
+  </script>
+</body>
+</html>
