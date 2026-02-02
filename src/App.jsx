@@ -1,5 +1,5 @@
 // App.jsx
-import { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 
 const CORE_COLORS = {
   Trust: "#2E7D32",
@@ -963,7 +963,7 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    fetch("/data/Emotions wheel.csv")
+    fetch("/data/emotions_wheel.csv")
       .then((res) => {
         if (!res.ok) throw new Error("Failed to load validation CSV");
         return res.text();
