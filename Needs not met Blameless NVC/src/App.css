@@ -1,0 +1,55 @@
+.appShell {
+  display: grid;
+  gap: 14px;
+}
+
+.panel {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 12px;
+  box-shadow: var(--shadow);
+}
+
+.metaRow {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.smallMuted {
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.35;
+}
+
+.gridWrap {
+  width: 100%;
+  overflow: auto; /* iPhone scroll if needed */
+  -webkit-overflow-scrolling: touch;
+  border-radius: 16px;
+}
+
+.legend {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.legendItem {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.swatch {
+  width: 14px;
+  height: 14px;
+  border-radius: 4px;
+  border: 1px solid rgba(255,255,255,0.18);
+}

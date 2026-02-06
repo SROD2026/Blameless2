@@ -1,0 +1,846 @@
+{
+  "consumed by injustice": {
+    "needs": ["Fairness", "Integrity", "Accountability", "Protection", "Respect", "Equity", "Repair"],
+    "nvc_template": "When I observe ____, I feel consumed by injustice because I need fairness and integrity."
+  },
+  "incensed": {
+    "needs": ["Fairness", "Respect", "Accountability", "Integrity", "Protection", "Boundaries / Consent"],
+    "nvc_template": "When I observe ____, I feel incensed because I need fairness and accountability."
+  },
+  "livid": {
+    "needs": ["Fairness", "Respect", "Protection", "Integrity", "Accountability", "Safety"],
+    "nvc_template": "When I observe ____, I feel livid because I need respect and protection."
+  },
+  "outraged": {
+    "needs": ["Fairness", "Integrity", "Accountability", "Equity", "Respect", "Protection"],
+    "nvc_template": "When I observe ____, I feel outraged because I need fairness and integrity."
+  },
+  "enraged": {
+    "needs": ["Protection", "Safety", "Respect", "Fairness", "Accountability", "Boundaries / Consent"],
+    "nvc_template": "When I observe ____, I feel enraged because I need protection and safety."
+  },
+  "repulsed": {
+    "needs": ["Safety", "Boundaries / Consent", "Integrity", "Protection", "Space", "Respect"],
+    "nvc_template": "When I observe ____, I feel repulsed because I need safety and boundaries."
+  },
+  "appalled": {
+    "needs": ["Integrity", "Safety", "Accountability", "Respect", "Fairness"],
+    "nvc_template": "When I observe ____, I feel appalled because I need integrity and safety."
+  },
+
+  "boiling frustration": {
+    "needs": ["Clarity", "Cooperation", "Progress", "Order", "Support", "Reliability"],
+    "nvc_template": "When I observe ____, I feel boiling frustration because I need clarity and progress."
+  },
+  "seething": {
+    "needs": ["Repair", "Accountability", "Respect", "Fairness", "Being Heard", "Integrity"],
+    "nvc_template": "When I observe ____, I feel seething because I need repair and accountability."
+  },
+  "fuming": {
+    "needs": ["Respect", "Fairness", "Consideration", "Clarity", "Cooperation"],
+    "nvc_template": "When I observe ____, I feel fuming because I need respect and consideration."
+  },
+  "indignant": {
+    "needs": ["Fairness", "Equity", "Respect", "Integrity", "Accountability"],
+    "nvc_template": "When I observe ____, I feel indignant because I need fairness and equity."
+  },
+  "aggrieved": {
+    "needs": ["Repair", "Acknowledgment", "Respect", "Fairness", "Trust"],
+    "nvc_template": "When I observe ____, I feel aggrieved because I need acknowledgment and repair."
+  },
+  "disgusted": {
+    "needs": ["Safety", "Boundaries / Consent", "Integrity", "Protection", "Space"],
+    "nvc_template": "When I observe ____, I feel disgusted because I need safety and boundaries."
+  },
+  "revolted": {
+    "needs": ["Safety", "Protection", "Boundaries / Consent", "Integrity", "Space"],
+    "nvc_template": "When I observe ____, I feel revolted because I need protection and boundaries."
+  },
+
+  "furious about unfairness": {
+    "needs": ["Fairness", "Equity", "Accountability", "Integrity", "Respect"],
+    "nvc_template": "When I observe ____, I feel furious about unfairness because I need fairness and accountability."
+  },
+  "worked up": {
+    "needs": ["Clarity", "Support", "Order", "Cooperation", "Progress", "Time"],
+    "nvc_template": "When I observe ____, I feel worked up because I need clarity and support."
+  },
+  "provoked": {
+    "needs": ["Respect", "Boundaries / Consent", "Safety", "Consideration", "Space"],
+    "nvc_template": "When I observe ____, I feel provoked because I need respect and boundaries."
+  },
+  "resentful": {
+    "needs": ["Fairness", "Consideration", "Appreciation", "Reciprocity", "Repair", "Rest / Sleep"],
+    "nvc_template": "When I observe ____, I feel resentful because I need fairness and appreciation."
+  },
+  "irate": {
+    "needs": ["Respect", "Accountability", "Integrity", "Protection", "Fairness"],
+    "nvc_template": "When I observe ____, I feel irate because I need respect and accountability."
+  },
+  "grossed out": {
+    "needs": ["Safety", "Boundaries / Consent", "Integrity", "Protection", "Space"],
+    "nvc_template": "When I observe ____, I feel grossed out because I need safety and space."
+  },
+  "averse": {
+    "needs": ["Safety", "Space", "Boundaries / Consent", "Choice", "Protection"],
+    "nvc_template": "When I observe ____, I feel averse because I need space and choice."
+  },
+
+  "frustrated": {
+    "needs": ["Clarity", "Cooperation", "Progress", "Order", "Support", "Reliability"],
+    "nvc_template": "When I observe ____, I feel frustrated because I need clarity and progress."
+  },
+  "blocked": {
+    "needs": ["Progress", "Agency", "Support", "Clarity", "Time", "Freedom"],
+    "nvc_template": "When I observe ____, I feel blocked because I need agency and progress."
+  },
+  "impeded": {
+    "needs": ["Progress", "Cooperation", "Time", "Order", "Clarity"],
+    "nvc_template": "When I observe ____, I feel impeded because I need progress and cooperation."
+  },
+  "stuck": {
+    "needs": ["Progress", "Guidance", "Support", "Clarity", "Movement / Exercise"],
+    "nvc_template": "When I observe ____, I feel stuck because I need guidance and progress."
+  },
+  "halted": {
+    "needs": ["Progress", "Coordination", "Reliability", "Clarity", "Order"],
+    "nvc_template": "When I observe ____, I feel halted because I need reliability and coordination."
+  },
+  "soured": {
+    "needs": ["Warmth", "Repair", "Trust", "Harmony", "Understanding"],
+    "nvc_template": "When I observe ____, I feel soured because I need warmth and repair."
+  },
+  "disengaged": {
+    "needs": ["Safety", "Warmth", "Connection", "Understanding", "Space", "Clarity"],
+    "nvc_template": "When I observe ____, I feel disengaged because I need safety and connection."
+  },
+
+  "agitated": {
+    "needs": ["Space", "Stillness", "Predictability", "Safety", "Reduced Stimulation", "Time"],
+    "nvc_template": "When I observe ____, I feel agitated because I need space and stillness."
+  },
+  "irritated": {
+    "needs": ["Consideration", "Respect", "Order", "Ease", "Clarity"],
+    "nvc_template": "When I observe ____, I feel irritated because I need consideration and ease."
+  },
+  "bothered": {
+    "needs": ["Ease", "Space", "Clarity", "Order", "Respect"],
+    "nvc_template": "When I observe ____, I feel bothered because I need ease and space."
+  },
+  "disturbed": {
+    "needs": ["Safety", "Peace", "Order", "Stability", "Stillness"],
+    "nvc_template": "When I observe ____, I feel disturbed because I need peace and stability."
+  },
+  "disrupted": {
+    "needs": ["Order", "Predictability", "Coordination", "Clarity", "Stability"],
+    "nvc_template": "When I observe ____, I feel disrupted because I need predictability and order."
+  },
+  "ruffled": {
+    "needs": ["Ease", "Peace", "Predictability", "Clarity", "Stillness"],
+    "nvc_template": "When I observe ____, I feel ruffled because I need ease and peace."
+  },
+  "stirred": {
+    "needs": ["Clarity", "Understanding", "Stillness", "Space", "Processing Time"],
+    "nvc_template": "When I observe ____, I feel stirred because I need understanding and space."
+  },
+
+  "activated": {
+    "needs": ["Safety", "Clarity", "Space", "Predictability", "Support", "Stillness"],
+    "nvc_template": "When I observe ____, I feel activated because I need safety and clarity."
+  },
+  "slightly activated": {
+    "needs": ["Safety", "Clarity", "Space", "Stillness", "Support"],
+    "nvc_template": "When I observe ____, I feel slightly activated because I need safety and space."
+  },
+  "quietly braced": {
+    "needs": ["Safety", "Predictability", "Reassurance", "Clarity", "Protection"],
+    "nvc_template": "When I observe ____, I feel quietly braced because I need predictability and reassurance."
+  },
+  "held readiness": {
+    "needs": ["Clarity", "Preparation Time", "Support", "Safety", "Predictability"],
+    "nvc_template": "When I observe ____, I feel held readiness because I need clarity and preparation time."
+  },
+  "contained activation": {
+    "needs": ["Space", "Stillness", "Safety", "Control over pace", "Reduced Stimulation"],
+    "nvc_template": "When I observe ____, I feel contained activation because I need space and stillness."
+  },
+  "internally noisy": {
+    "needs": ["Stillness", "Simplicity", "Space", "Processing Time", "Reduced Stimulation"],
+    "nvc_template": "When I observe ____, I feel internally noisy because I need stillness and simplicity."
+  },
+
+  "internally busy": {
+    "needs": ["Space", "Processing Time", "Simplicity", "Clarity", "Stillness"],
+    "nvc_template": "When I observe ____, I feel internally busy because I need space and processing time."
+  },
+  "pressured": {
+    "needs": ["Time", "Pace", "Support", "Space", "Simplicity"],
+    "nvc_template": "When I observe ____, I feel pressured because I need time and a slower pace."
+  },
+  "compressed": {
+    "needs": ["Space", "Time", "Freedom", "Ease", "Stillness"],
+    "nvc_template": "When I observe ____, I feel compressed because I need space and freedom."
+  },
+  "weighted": {
+    "needs": ["Support", "Rest / Sleep", "Shared Responsibility", "Ease", "Warmth"],
+    "nvc_template": "When I observe ____, I feel weighted because I need support and rest."
+  },
+  "burdened": {
+    "needs": ["Support", "Shared Responsibility", "Rest / Sleep", "Appreciation", "Ease"],
+    "nvc_template": "When I observe ____, I feel burdened because I need shared responsibility and support."
+  },
+  "loaded": {
+    "needs": ["Simplicity", "Support", "Time", "Order", "Pace"],
+    "nvc_template": "When I observe ____, I feel loaded because I need simplicity and time."
+  },
+
+  "tense": {
+    "needs": ["Safety", "Stillness", "Predictability", "Space", "Rest / Sleep"],
+    "nvc_template": "When I observe ____, I feel tense because I need safety and stillness."
+  },
+  "rigid": {
+    "needs": ["Safety", "Space", "Support", "Flexibility", "Stillness"],
+    "nvc_template": "When I observe ____, I feel rigid because I need safety and support."
+  },
+  "braced": {
+    "needs": ["Safety", "Predictability", "Clarity", "Protection", "Reassurance"],
+    "nvc_template": "When I observe ____, I feel braced because I need predictability and reassurance."
+  },
+  "held tight": {
+    "needs": ["Safety", "Space", "Stillness", "Time", "Reduced Stimulation"],
+    "nvc_template": "When I observe ____, I feel held tight because I need safety and space."
+  },
+  "contained": {
+    "needs": ["Safety", "Space", "Control over pace", "Predictability", "Stillness"],
+    "nvc_template": "When I observe ____, I feel contained because I need space and control over pace."
+  },
+  "restricted": {
+    "needs": ["Autonomy", "Choice", "Agency", "Freedom", "Space to Decide", "Respect"],
+    "nvc_template": "When I observe ____, I feel restricted because I need autonomy and choice."
+  },
+  "self-monitoring": {
+    "needs": ["Safety", "Acceptance", "Gentleness", "Clarity", "Permission to be new"],
+    "nvc_template": "When I observe ____, I feel self-monitoring because I need acceptance and gentleness."
+  },
+
+  "shocked": {
+    "needs": ["Orientation", "Clarity", "Context", "Safety", "Processing Time"],
+    "nvc_template": "When I observe ____, I feel shocked because I need context and time to process."
+  },
+  "blindsided": {
+    "needs": ["Predictability", "Preparation Time", "Transparency", "Clarity", "Coordination"],
+    "nvc_template": "When I observe ____, I feel blindsided because I need predictability and preparation time."
+  },
+  "astonished": {
+    "needs": ["Context", "Clarity", "Understanding", "Processing Time", "Orientation"],
+    "nvc_template": "When I observe ____, I feel astonished because I need context and understanding."
+  },
+  "stunned": {
+    "needs": ["Processing Time", "Orientation", "Safety", "Clarity", "Support"],
+    "nvc_template": "When I observe ____, I feel stunned because I need time to process and orientation."
+  },
+  "overtaken by surprise": {
+    "needs": ["Processing Time", "Simplicity", "Orientation", "Clarity", "Stability"],
+    "nvc_template": "When I observe ____, I feel overtaken by surprise because I need time to process and clarity."
+  },
+  "startled stiff": {
+    "needs": ["Safety", "Orientation", "Processing Time", "Predictability", "Clarity"],
+    "nvc_template": "When I observe ____, I feel startled stiff because I need safety and orientation."
+  },
+  "overrun by surprise": {
+    "needs": ["Processing Time", "Simplicity", "Clarity", "Stability", "Support"],
+    "nvc_template": "When I observe ____, I feel overrun by surprise because I need simplicity and time to process."
+  },
+  "speechless": {
+    "needs": ["Processing Time", "Safety", "Orientation", "Clarity", "Support"],
+    "nvc_template": "When I observe ____, I feel speechless because I need time to process and clarity."
+  },
+  "floored": {
+    "needs": ["Processing Time", "Orientation", "Stability", "Safety", "Support"],
+    "nvc_template": "When I observe ____, I feel floored because I need time to process and stability."
+  },
+  "aghast": {
+    "needs": ["Integrity", "Safety", "Clarity", "Orientation", "Protection"],
+    "nvc_template": "When I observe ____, I feel aghast because I need integrity and safety."
+  },
+  "disbelieving": {
+    "needs": ["Clarity", "Context", "Truthfulness", "Processing Time", "Understanding"],
+    "nvc_template": "When I observe ____, I feel disbelieving because I need clarity and context."
+  },
+  "unable to take it in": {
+    "needs": ["Processing Time", "Simplicity", "Space", "Stillness", "Support"],
+    "nvc_template": "When I observe ____, I feel unable to take it in because I need time to process and simplicity."
+  },
+  "flabbergasted": {
+    "needs": ["Processing Time", "Context", "Orientation", "Clarity", "Support"],
+    "nvc_template": "When I observe ____, I feel flabbergasted because I need context and time to process."
+  },
+  "jarred": {
+    "needs": ["Predictability", "Gentleness", "Orientation", "Clarity", "Stability"],
+    "nvc_template": "When I observe ____, I feel jarred because I need gentleness and predictability."
+  },
+  "jolted": {
+    "needs": ["Safety", "Predictability", "Orientation", "Processing Time", "Support"],
+    "nvc_template": "When I observe ____, I feel jolted because I need safety and predictability."
+  },
+  "shaken": {
+    "needs": ["Safety", "Stability", "Support", "Reassurance", "Stillness"],
+    "nvc_template": "When I observe ____, I feel shaken because I need stability and reassurance."
+  },
+  "rattled": {
+    "needs": ["Stability", "Predictability", "Support", "Stillness", "Clarity"],
+    "nvc_template": "When I observe ____, I feel rattled because I need stability and clarity."
+  },
+  "spooked": {
+    "needs": ["Safety", "Reassurance", "Predictability", "Support", "Space"],
+    "nvc_template": "When I observe ____, I feel spooked because I need safety and reassurance."
+  },
+  "wide-eyed": {
+    "needs": ["Orientation", "Safety", "Processing Time", "Clarity", "Support"],
+    "nvc_template": "When I observe ____, I feel wide-eyed because I need orientation and time to process."
+  },
+  "shocked fast": {
+    "needs": ["Processing Time", "Safety", "Orientation", "Clarity", "Support"],
+    "nvc_template": "When I observe ____, I feel shocked fast because I need time to process and safety."
+  },
+  "caught off guard": {
+    "needs": ["Predictability", "Preparation Time", "Orientation", "Clarity", "Support"],
+    "nvc_template": "When I observe ____, I feel caught off guard because I need preparation time and predictability."
+  },
+  "taken aback": {
+    "needs": ["Context", "Clarity", "Processing Time", "Orientation", "Support"],
+    "nvc_template": "When I observe ____, I feel taken aback because I need context and clarity."
+  },
+  "thrown": {
+    "needs": ["Orientation", "Predictability", "Clarity", "Processing Time", "Support"],
+    "nvc_template": "When I observe ____, I feel thrown because I need orientation and predictability."
+  },
+  "unsettled by surprise": {
+    "needs": ["Stability", "Predictability", "Clarity", "Processing Time", "Support"],
+    "nvc_template": "When I observe ____, I feel unsettled by surprise because I need predictability and clarity."
+  },
+  "surprised strongly": {
+    "needs": ["Processing Time", "Orientation", "Clarity", "Context", "Support"],
+    "nvc_template": "When I observe ____, I feel surprised strongly because I need time to process and context."
+  },
+  "unexpected": {
+    "needs": ["Predictability", "Preparation Time", "Coordination", "Clarity", "Stability"],
+    "nvc_template": "When I observe ____, I feel unexpected because I need predictability and preparation time."
+  },
+  "surprised": {
+    "needs": ["Context", "Clarity", "Orientation", "Processing Time", "Support"],
+    "nvc_template": "When I observe ____, I feel surprised because I need context and clarity."
+  },
+
+  "confused": {
+    "needs": ["Clarity", "Information", "Context", "Understanding", "Stepwise explanation"],
+    "nvc_template": "When I observe ____, I feel confused because I need clarity and information."
+  },
+  "disoriented": {
+    "needs": ["Orientation", "Predictability", "Clarity", "Processing Time", "Stability"],
+    "nvc_template": "When I observe ____, I feel disoriented because I need orientation and predictability."
+  },
+  "uncertain": {
+    "needs": ["Clarity", "Information", "Reassurance", "Predictability", "Guidance"],
+    "nvc_template": "When I observe ____, I feel uncertain because I need clarity and reassurance."
+  },
+  "seeking context": {
+    "needs": ["Context", "Information", "Clarity", "Understanding", "Truthfulness"],
+    "nvc_template": "When I observe ____, I feel seeking context because I need context and clarity."
+  },
+  "reorienting": {
+    "needs": ["Orientation", "Stepwise information", "Processing Time", "Clarity", "Support"],
+    "nvc_template": "When I observe ____, I feel reorienting because I need orientation and stepwise information."
+  },
+  "rechecking assumptions": {
+    "needs": ["Clarity", "Truthfulness", "Information", "Shared Expectations", "Context"],
+    "nvc_template": "When I observe ____, I feel rechecking assumptions because I need clarity and shared expectations."
+  },
+  "recalibrating": {
+    "needs": ["Orientation", "Clarity", "Processing Time", "Context", "Stability"],
+    "nvc_template": "When I observe ____, I feel recalibrating because I need time to process and clarity."
+  },
+  "processing a lot": {
+    "needs": ["Processing Time", "Simplicity", "Space", "Stillness", "Support"],
+    "nvc_template": "When I observe ____, I feel processing a lot because I need time and simplicity."
+  },
+  "mentally scrambled": {
+    "needs": ["Clarity", "Simplicity", "Space", "Processing Time", "Stillness"],
+    "nvc_template": "When I observe ____, I feel mentally scrambled because I need simplicity and clarity."
+  },
+  "disoriented suddenly": {
+    "needs": ["Orientation", "Predictability", "Safety", "Processing Time", "Support"],
+    "nvc_template": "When I observe ____, I feel disoriented suddenly because I need orientation and predictability."
+  },
+  "momentarily lost": {
+    "needs": ["Orientation", "Clarity", "Context", "Stepwise information", "Support"],
+    "nvc_template": "When I observe ____, I feel momentarily lost because I need orientation and context."
+  },
+  "uncertain about the change": {
+    "needs": ["Predictability", "Preparation Time", "Clarity", "Information", "Coordination"],
+    "nvc_template": "When I observe ____, I feel uncertain about the change because I need clarity and predictability."
+  },
+  "expectation-shifted": {
+    "needs": ["Shared Expectations", "Coordination", "Predictability", "Clarity", "Preparation Time"],
+    "nvc_template": "When I observe ____, I feel expectation-shifted because I need shared expectations and predictability."
+  },
+  "unsure what to do next": {
+    "needs": ["Guidance", "Clarity", "Stepwise plan", "Support", "Information"],
+    "nvc_template": "When I observe ____, I feel unsure what to do next because I need guidance and a stepwise plan."
+  },
+  "puzzled": {
+    "needs": ["Clarity", "Context", "Understanding", "Information", "Support"],
+    "nvc_template": "When I observe ____, I feel puzzled because I need understanding and context."
+  },
+  "perplexed": {
+    "needs": ["Clarity", "Context", "Understanding", "Stepwise explanation", "Support"],
+    "nvc_template": "When I observe ____, I feel perplexed because I need clarity and understanding."
+  },
+  "bewildered": {
+    "needs": ["Orientation", "Clarity", "Context", "Processing Time", "Support"],
+    "nvc_template": "When I observe ____, I feel bewildered because I need orientation and clarity."
+  },
+  "confused about the moment": {
+    "needs": ["Context", "Clarity", "Orientation", "Information", "Support"],
+    "nvc_template": "When I observe ____, I feel confused about the moment because I need context and clarity."
+  },
+  "slightly shaken": {
+    "needs": ["Reassurance", "Stability", "Support", "Safety", "Stillness"],
+    "nvc_template": "When I observe ____, I feel slightly shaken because I need reassurance and stability."
+  },
+  "startled": {
+    "needs": ["Safety", "Predictability", "Orientation", "Processing Time", "Support"],
+    "nvc_template": "When I observe ____, I feel startled because I need safety and predictability."
+  },
+  "jumpy": {
+    "needs": ["Safety", "Reduced Stimulation", "Stillness", "Predictability", "Reassurance"],
+    "nvc_template": "When I observe ____, I feel jumpy because I need safety and stillness."
+  },
+
+  "terrified": {
+    "needs": ["Safety", "Protection", "Support", "Stability", "Reassurance", "Clarity"],
+    "nvc_template": "When I observe ____, I feel terrified because I need safety and protection."
+  },
+  "panicked": {
+    "needs": ["Safety", "Support", "Space", "Stillness", "Air", "Reassurance"],
+    "nvc_template": "When I observe ____, I feel panicked because I need safety and support."
+  },
+  "flooded": {
+    "needs": ["Space", "Reduced Stimulation", "Processing Time", "Support", "Stillness"],
+    "nvc_template": "When I observe ____, I feel flooded because I need space and time to process."
+  },
+  "overwhelmed": {
+    "needs": ["Simplicity", "Support", "Time", "Space", "Pace"],
+    "nvc_template": "When I observe ____, I feel overwhelmed because I need simplicity and time."
+  },
+  "alarmed": {
+    "needs": ["Safety", "Clarity", "Protection", "Predictability", "Reassurance"],
+    "nvc_template": "When I observe ____, I feel alarmed because I need safety and reassurance."
+  },
+  "overstimulated": {
+    "needs": ["Reduced Stimulation", "Space", "Stillness", "Rest / Sleep", "Safety"],
+    "nvc_template": "When I observe ____, I feel overstimulated because I need reduced stimulation and rest."
+  },
+  "on edge": {
+    "needs": ["Safety", "Predictability", "Space", "Stillness", "Reassurance"],
+    "nvc_template": "When I observe ____, I feel on edge because I need safety and predictability."
+  },
+  "anxious": {
+    "needs": ["Reassurance", "Clarity", "Safety", "Predictability", "Support"],
+    "nvc_template": "When I observe ____, I feel anxious because I need reassurance and clarity."
+  },
+  "fearful": {
+    "needs": ["Safety", "Protection", "Support", "Stability", "Reassurance", "Clarity"],
+    "nvc_template": "When I observe ____, I feel fearful because I need safety and protection."
+  },
+  "worried": {
+    "needs": ["Clarity", "Reassurance", "Predictability", "Support", "Information"],
+    "nvc_template": "When I observe ____, I feel worried because I need reassurance and information."
+  },
+  "concerned": {
+    "needs": ["Clarity", "Information", "Safety", "Support", "Understanding"],
+    "nvc_template": "When I observe ____, I feel concerned because I need clarity and understanding."
+  },
+  "apprehensive": {
+    "needs": ["Reassurance", "Safety", "Predictability", "Preparation Time", "Support"],
+    "nvc_template": "When I observe ____, I feel apprehensive because I need preparation time and reassurance."
+  },
+  "guarded": {
+    "needs": ["Safety", "Trust", "Respect", "Boundaries / Consent", "Predictability"],
+    "nvc_template": "When I observe ____, I feel guarded because I need safety and trust."
+  },
+  "vigilant": {
+    "needs": ["Safety", "Protection", "Predictability", "Clarity", "Control over pace"],
+    "nvc_template": "When I observe ____, I feel vigilant because I need safety and predictability."
+  },
+  "uneasy": {
+    "needs": ["Safety", "Clarity", "Predictability", "Support", "Stillness"],
+    "nvc_template": "When I observe ____, I feel uneasy because I need safety and clarity."
+  },
+  "restless": {
+    "needs": ["Movement / Exercise", "Relief", "Progress", "Space", "Play"],
+    "nvc_template": "When I observe ____, I feel restless because I need relief and movement."
+  },
+  "urgent": {
+    "needs": ["Progress", "Clarity", "Support", "Time", "Coordination"],
+    "nvc_template": "When I observe ____, I feel urgent because I need progress and coordination."
+  },
+  "tight": {
+    "needs": ["Safety", "Stillness", "Space", "Rest / Sleep", "Reduced Stimulation"],
+    "nvc_template": "When I observe ____, I feel tight because I need stillness and space."
+  },
+  "reactive": {
+    "needs": ["Safety", "Space", "Stillness", "Predictability", "Support"],
+    "nvc_template": "When I observe ____, I feel reactive because I need safety and space."
+  },
+  "alert": {
+    "needs": ["Safety", "Clarity", "Predictability", "Information", "Orientation"],
+    "nvc_template": "When I observe ____, I feel alert because I need safety and information."
+  },
+
+  "preoccupied": {
+    "needs": ["Clarity", "Space", "Processing Time", "Order", "Stillness"],
+    "nvc_template": "When I observe ____, I feel preoccupied because I need space and clarity."
+  },
+  "focused outward": {
+    "needs": ["Safety", "Predictability", "Information", "Orientation", "Clarity"],
+    "nvc_template": "When I observe ____, I feel focused outward because I need safety and information."
+  },
+  "monitoring": {
+    "needs": ["Safety", "Predictability", "Clarity", "Control over pace", "Orientation"],
+    "nvc_template": "When I observe ____, I feel monitoring because I need predictability and clarity."
+  },
+  "held alert": {
+    "needs": ["Safety", "Predictability", "Clarity", "Reassurance", "Support"],
+    "nvc_template": "When I observe ____, I feel held alert because I need safety and reassurance."
+  },
+  "background alert": {
+    "needs": ["Safety", "Reassurance", "Predictability", "Stillness", "Support"],
+    "nvc_template": "When I observe ____, I feel background alert because I need reassurance and stillness."
+  },
+  "low-grade tension": {
+    "needs": ["Stillness", "Space", "Safety", "Rest / Sleep", "Reduced Stimulation"],
+    "nvc_template": "When I observe ____, I feel low-grade tension because I need stillness and rest."
+  },
+  "uneasy hum": {
+    "needs": ["Stillness", "Safety", "Clarity", "Support", "Reduced Stimulation"],
+    "nvc_template": "When I observe ____, I feel uneasy hum because I need stillness and clarity."
+  },
+
+  "strained": {
+    "needs": ["Support", "Time", "Pace", "Rest / Sleep", "Simplicity"],
+    "nvc_template": "When I observe ____, I feel strained because I need support and rest."
+  },
+  "pressed": {
+    "needs": ["Time", "Space", "Pace", "Support", "Simplicity"],
+    "nvc_template": "When I observe ____, I feel pressed because I need time and space."
+  },
+  "effortful": {
+    "needs": ["Support", "Time", "Guidance", "Learning", "Encouragement"],
+    "nvc_template": "When I observe ____, I feel effortful because I need guidance and encouragement."
+  },
+  "trying hard": {
+    "needs": ["Support", "Guidance", "Learning", "Encouragement", "Appreciation"],
+    "nvc_template": "When I observe ____, I feel trying hard because I need guidance and appreciation."
+  },
+  "engaged under strain": {
+    "needs": ["Support", "Time", "Pace", "Clarity", "Rest / Sleep"],
+    "nvc_template": "When I observe ____, I feel engaged under strain because I need support and time."
+  },
+  "engaged under load": {
+    "needs": ["Support", "Simplicity", "Time", "Order", "Rest / Sleep"],
+    "nvc_template": "When I observe ____, I feel engaged under load because I need simplicity and support."
+  },
+  "steady pressure": {
+    "needs": ["Time", "Support", "Pace", "Shared Responsibility", "Stability"],
+    "nvc_template": "When I observe ____, I feel steady pressure because I need time and shared responsibility."
+  },
+
+  "responsible": {
+    "needs": ["Support", "Shared Responsibility", "Clarity", "Reliability", "Time"],
+    "nvc_template": "When I observe ____, I feel responsible because I need shared responsibility and clarity."
+  },
+  "tasked": {
+    "needs": ["Support", "Clarity", "Time", "Order", "Appreciation"],
+    "nvc_template": "When I observe ____, I feel tasked because I need clarity and time."
+  },
+  "pulled": {
+    "needs": ["Space", "Choice", "Time", "Simplicity", "Order"],
+    "nvc_template": "When I observe ____, I feel pulled because I need space and choice."
+  },
+  "working through": {
+    "needs": ["Time", "Support", "Clarity", "Progress", "Gentleness"],
+    "nvc_template": "When I observe ____, I feel working through because I need time and support."
+  },
+  "mobilized quietly": {
+    "needs": ["Progress", "Clarity", "Support", "Time", "Order"],
+    "nvc_template": "When I observe ____, I feel mobilized quietly because I need progress and clarity."
+  },
+  "ready but tense": {
+    "needs": ["Safety", "Predictability", "Clarity", "Support", "Preparation Time"],
+    "nvc_template": "When I observe ____, I feel ready but tense because I need predictability and support."
+  },
+
+  "sad": {
+    "needs": ["Connection", "Comfort", "Support", "Warmth", "Understanding", "Being Seen"],
+    "nvc_template": "When I observe ____, I feel sad because I need connection and comfort."
+  },
+  "down": {
+    "needs": ["Support", "Rest / Sleep", "Warmth", "Encouragement", "Connection"],
+    "nvc_template": "When I observe ____, I feel down because I need support and rest."
+  },
+  "discouraged": {
+    "needs": ["Encouragement", "Support", "Progress", "Hope", "Understanding"],
+    "nvc_template": "When I observe ____, I feel discouraged because I need encouragement and progress."
+  },
+  "heavy-hearted": {
+    "needs": ["Comfort", "Warmth", "Support", "Closeness / Intimacy", "Understanding"],
+    "nvc_template": "When I observe ____, I feel heavy-hearted because I need comfort and closeness."
+  },
+  "dull ache": {
+    "needs": ["Comfort", "Care", "Support", "Closeness / Intimacy", "Rest / Sleep"],
+    "nvc_template": "When I observe ____, I feel dull ache because I need comfort and care."
+  },
+  "quiet sadness": {
+    "needs": ["Connection", "Warmth", "Being Seen", "Comfort", "Support"],
+    "nvc_template": "When I observe ____, I feel quiet sadness because I need connection and being seen."
+  },
+  "lonely": {
+    "needs": ["Connection", "Belonging", "Closeness / Intimacy", "Warmth", "Being Seen"],
+    "nvc_template": "When I observe ____, I feel lonely because I need closeness and belonging."
+  },
+
+  "heartbroken": {
+    "needs": ["Connection", "Comfort", "Closeness / Intimacy", "Support", "Warmth"],
+    "nvc_template": "When I observe ____, I feel heartbroken because I need comfort and closeness."
+  },
+  "grief-stricken": {
+    "needs": ["Comfort", "Support", "Warmth", "Being Seen", "Space to Grieve"],
+    "nvc_template": "When I observe ____, I feel grief-stricken because I need support and space to grieve."
+  },
+  "devastated": {
+    "needs": ["Support", "Comfort", "Stability", "Warmth", "Being Seen"],
+    "nvc_template": "When I observe ____, I feel devastated because I need support and stability."
+  },
+  "crushed": {
+    "needs": ["Support", "Comfort", "Relief", "Warmth", "Being Seen"],
+    "nvc_template": "When I observe ____, I feel crushed because I need support and comfort."
+  },
+  "sorrow-flooded": {
+    "needs": ["Comfort", "Support", "Warmth", "Stillness", "Space to Grieve"],
+    "nvc_template": "When I observe ____, I feel sorrow-flooded because I need comfort and space to grieve."
+  },
+
+  "despondent": {
+    "needs": ["Hope", "Support", "Encouragement", "Connection", "Meaning / Purpose"],
+    "nvc_template": "When I observe ____, I feel despondent because I need hope and support."
+  },
+  "deep sorrow": {
+    "needs": ["Comfort", "Support", "Warmth", "Closeness / Intimacy", "Space to Grieve"],
+    "nvc_template": "When I observe ____, I feel deep sorrow because I need comfort and closeness."
+  },
+  "aching": {
+    "needs": ["Comfort", "Care", "Support", "Warmth", "Rest / Sleep"],
+    "nvc_template": "When I observe ____, I feel aching because I need comfort and care."
+  },
+  "weepy": {
+    "needs": ["Comfort", "Being Seen", "Warmth", "Support", "Gentleness"],
+    "nvc_template": "When I observe ____, I feel weepy because I need gentleness and comfort."
+  },
+
+  "sad with regret": {
+    "needs": ["Repair", "Understanding", "Self-Compassion", "Growth", "Acceptance"],
+    "nvc_template": "When I observe ____, I feel sad with regret because I need repair and growth."
+  },
+  "regretful": {
+    "needs": ["Repair", "Growth", "Learning", "Self-Compassion", "Clarity"],
+    "nvc_template": "When I observe ____, I feel regretful because I need repair and learning."
+  },
+  "remorseful": {
+    "needs": ["Repair", "Integrity", "Forgiveness", "Growth", "Trust"],
+    "nvc_template": "When I observe ____, I feel remorseful because I need repair and integrity."
+  },
+  "heavy with regret": {
+    "needs": ["Repair", "Support", "Self-Compassion", "Growth", "Understanding"],
+    "nvc_template": "When I observe ____, I feel heavy with regret because I need repair and self-compassion."
+  },
+
+  "tender": {
+    "needs": ["Gentleness", "Warmth", "Safety", "Support", "Understanding"],
+    "nvc_template": "When I observe ____, I feel tender because I need gentleness and warmth."
+  },
+  "raw": {
+    "needs": ["Gentleness", "Safety", "Support", "Space", "Stillness"],
+    "nvc_template": "When I observe ____, I feel raw because I need gentleness and safety."
+  },
+  "fragile": {
+    "needs": ["Gentleness", "Safety", "Support", "Reassurance", "Warmth"],
+    "nvc_template": "When I observe ____, I feel fragile because I need reassurance and gentleness."
+  },
+  "low": {
+    "needs": ["Rest / Sleep", "Support", "Warmth", "Ease", "Connection"],
+    "nvc_template": "When I observe ____, I feel low because I need rest and support."
+  },
+
+  "disheartened": {
+    "needs": ["Encouragement", "Hope", "Support", "Meaning / Purpose", "Connection"],
+    "nvc_template": "When I observe ____, I feel disheartened because I need encouragement and hope."
+  },
+  "disappointed in myself": {
+    "needs": ["Growth", "Learning", "Self-Compassion", "Gentleness", "Repair"],
+    "nvc_template": "When I observe ____, I feel disappointed in myself because I need growth and self-compassion."
+  },
+  "discouraged about it": {
+    "needs": ["Encouragement", "Support", "Progress", "Guidance", "Hope"],
+    "nvc_template": "When I observe ____, I feel discouraged about it because I need guidance and encouragement."
+  },
+  "saddened": {
+    "needs": ["Comfort", "Support", "Connection", "Warmth", "Understanding"],
+    "nvc_template": "When I observe ____, I feel saddened because I need comfort and understanding."
+  },
+
+  "withdrawn": {
+    "needs": ["Safety", "Space", "Stillness", "Processing Time", "Gentleness"],
+    "nvc_template": "When I observe ____, I feel withdrawn because I need space and safety."
+  },
+  "shut down": {
+    "needs": ["Safety", "Reduced Stimulation", "Space", "Stillness", "Rest / Sleep"],
+    "nvc_template": "When I observe ____, I feel shut down because I need safety and reduced stimulation."
+  },
+  "collapsed inward": {
+    "needs": ["Safety", "Space", "Support", "Stillness", "Processing Time"],
+    "nvc_template": "When I observe ____, I feel collapsed inward because I need safety and space."
+  },
+  "gone inward": {
+    "needs": ["Space", "Safety", "Processing Time", "Stillness", "Gentleness"],
+    "nvc_template": "When I observe ____, I feel gone inward because I need processing time and stillness."
+  },
+  "distant": {
+    "needs": ["Connection", "Warmth", "Safety", "Understanding", "Ease"],
+    "nvc_template": "When I observe ____, I feel distant because I need warmth and understanding."
+  },
+
+  "soft heaviness": {
+    "needs": ["Rest / Sleep", "Support", "Comfort", "Ease", "Warmth"],
+    "nvc_template": "When I observe ____, I feel soft heaviness because I need rest and comfort."
+  },
+  "quiet strain": {
+    "needs": ["Support", "Time", "Pace", "Rest / Sleep", "Simplicity"],
+    "nvc_template": "When I observe ____, I feel quiet strain because I need support and time."
+  },
+  "background heaviness": {
+    "needs": ["Rest / Sleep", "Support", "Comfort", "Stillness", "Ease"],
+    "nvc_template": "When I observe ____, I feel background heaviness because I need rest and ease."
+  },
+  "low energy": {
+    "needs": ["Rest / Sleep", "Food", "Water", "Movement / Exercise", "Health"],
+    "nvc_template": "When I observe ____, I feel low energy because I need rest and nourishment."
+  },
+  "weary": {
+    "needs": ["Rest / Sleep", "Support", "Ease", "Recovery", "Stillness"],
+    "nvc_template": "When I observe ____, I feel weary because I need rest and recovery."
+  },
+  "drained": {
+    "needs": ["Rest / Sleep", "Support", "Recovery", "Space", "Ease"],
+    "nvc_template": "When I observe ____, I feel drained because I need recovery and rest."
+  },
+  "exhausted": {
+    "needs": ["Rest / Sleep", "Recovery", "Support", "Reduced Stimulation", "Space"],
+    "nvc_template": "When I observe ____, I feel exhausted because I need rest and recovery."
+  },
+
+  "subtle agitation": {
+    "needs": ["Stillness", "Space", "Ease", "Predictability", "Reduced Stimulation"],
+    "nvc_template": "When I observe ____, I feel subtle agitation because I need ease and stillness."
+  },
+  "mild irritation": {
+    "needs": ["Consideration", "Ease", "Order", "Space", "Clarity"],
+    "nvc_template": "When I observe ____, I feel mild irritation because I need consideration and ease."
+  },
+  "frictioned": {
+    "needs": ["Ease", "Harmony", "Cooperation", "Clarity", "Respect"],
+    "nvc_template": "When I observe ____, I feel frictioned because I need ease and cooperation."
+  },
+  "keyed up": {
+    "needs": ["Safety", "Stillness", "Reduced Stimulation", "Reassurance", "Space"],
+    "nvc_template": "When I observe ____, I feel keyed up because I need stillness and reassurance."
+  },
+
+  "curious": {
+    "needs": ["Understanding", "Information", "Clarity", "Learning", "Context"],
+    "nvc_template": "When I observe ____, I feel curious because I need understanding and information."
+  },
+  "mentally busy": {
+    "needs": ["Space", "Processing Time", "Simplicity", "Clarity", "Stillness"],
+    "nvc_template": "When I observe ____, I feel mentally busy because I need space and simplicity."
+  },
+  "high alert": {
+    "needs": ["Safety", "Protection", "Predictability", "Clarity", "Reassurance"],
+    "nvc_template": "When I observe ____, I feel high alert because I need safety and predictability."
+  },
+  "highly activated": {
+    "needs": ["Safety", "Space", "Stillness", "Support", "Reduced Stimulation"],
+    "nvc_template": "When I observe ____, I feel highly activated because I need space and stillness."
+  },
+
+  "ashamed": {
+    "needs": ["Acceptance", "Gentleness", "Dignity", "Repair", "Safety", "Privacy"],
+    "nvc_template": "When I observe ____, I feel ashamed because I need acceptance and dignity."
+  },
+  "wanting to hide": {
+    "needs": ["Privacy", "Safety", "Dignity", "Gentleness", "Acceptance"],
+    "nvc_template": "When I observe ____, I feel wanting to hide because I need privacy and dignity."
+  },
+  "embarrassed": {
+    "needs": ["Dignity", "Gentleness", "Acceptance", "Privacy", "Safety"],
+    "nvc_template": "When I observe ____, I feel embarrassed because I need dignity and gentleness."
+  },
+  "exposed": {
+    "needs": ["Privacy", "Safety", "Dignity", "Gentleness", "Acceptance"],
+    "nvc_template": "When I observe ____, I feel exposed because I need privacy and safety."
+  },
+  "cringing": {
+    "needs": ["Gentleness", "Acceptance", "Repair", "Dignity", "Safety"],
+    "nvc_template": "When I observe ____, I feel cringing because I need gentleness and acceptance."
+  },
+  "guilty": {
+    "needs": ["Repair", "Integrity", "Growth", "Forgiveness", "Clarity"],
+    "nvc_template": "When I observe ____, I feel guilty because I need repair and integrity."
+  },
+  "self-conscious": {
+    "needs": ["Acceptance", "Gentleness", "Belonging", "Dignity", "Safety"],
+    "nvc_template": "When I observe ____, I feel self-conscious because I need acceptance and belonging."
+  },
+  "small": {
+    "needs": ["Acceptance", "Belonging", "Gentleness", "Being Seen", "Support"],
+    "nvc_template": "When I observe ____, I feel small because I need acceptance and support."
+  },
+  "uneasy about being seen": {
+    "needs": ["Privacy", "Safety", "Gentleness", "Acceptance", "Dignity"],
+    "nvc_template": "When I observe ____, I feel uneasy about being seen because I need privacy and gentleness."
+  },
+  "sheepish": {
+    "needs": ["Acceptance", "Gentleness", "Repair", "Dignity", "Safety"],
+    "nvc_template": "When I observe ____, I feel sheepish because I need acceptance and gentleness."
+  },
+  "insecure": {
+    "needs": ["Reassurance", "Acceptance", "Support", "Belonging", "Trust"],
+    "nvc_template": "When I observe ____, I feel insecure because I need reassurance and acceptance."
+  },
+  "awkward": {
+    "needs": ["Ease", "Acceptance", "Gentleness", "Clarity", "Belonging"],
+    "nvc_template": "When I observe ____, I feel awkward because I need ease and acceptance."
+  },
+  "hesitant": {
+    "needs": ["Safety", "Clarity", "Reassurance", "Support", "Space to Decide"],
+    "nvc_template": "When I observe ____, I feel hesitant because I need safety and clarity."
+  },
+  "wishing I could redo": {
+    "needs": ["Repair", "Growth", "Learning", "Self-Compassion", "Forgiveness"],
+    "nvc_template": "When I observe ____, I feel wishing I could redo because I need repair and growth."
+  },
+  "wanting to disappear": {
+    "needs": ["Safety", "Privacy", "Gentleness", "Acceptance", "Dignity"],
+    "nvc_template": "When I observe ____, I feel wanting to disappear because I need safety and privacy."
+  }
+}
